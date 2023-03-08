@@ -36,3 +36,15 @@ Once you have Unity installed, follow these steps to install the project:
 - Unity should load the project automatically. If not, click on the project in the Unity Hub to open it.
 
 That's it! You should now be able to run the project in Unity and build it for your desired platform. If you run into any issues or have any questions, please feel free to reach out.
+
+## Conclusion
+
+This project demonstrates how to create a VR environment in Unity and enable basic interaction and movement using C# scripting. The project can be used as a starting point for more complex VR projects or as a learning tool for those new to Unity and VR development.
+## Documentation
+
+[Documentation](https://docs.google.com/document/d/1k4JyVzmng-LWlYC0b4qQO_B5DeJG8QLlMKptQIFfb8s/edit)
+
+
+## Credits
+
+This project was created by Kavindu Ravishan. The tutorial for creating a magnifying lens in VR was used as a reference. The assets used in the project were either provided in the tutorial or download from Unity Asset Store.
