@@ -19,3 +19,8 @@ The project is based on the tutorial for creating a magnifying lens, which has b
 A rendering layer is used to make an object visible only through the magnifying lens. The project includes one such hidden object, which is marked clearly to indicate its location.
 
 The image on the lens is relative to the viewing angle rather than the orientation of the lens itself. The camera does not rotate with the lens, and instead, the user can see straight through it.
+
+Part 2: Two-Handed Grabbing System
+
+The project includes a novel grabbing system where both hands can manipulate the object simultaneously. The position and rotation changes of the hands are tracked while the object is grabbed, and these combined changes are applied to the grabbed object. This allows multiple hands to manipulate the object simultaneously.
+
