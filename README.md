@@ -24,3 +24,15 @@ Part 2: Two-Handed Grabbing System
 
 The project includes a novel grabbing system where both hands can manipulate the object simultaneously. The position and rotation changes of the hands are tracked while the object is grabbed, and these combined changes are applied to the grabbed object. This allows multiple hands to manipulate the object simultaneously.
 
+## Installation
+
+To use this Unity project, you will need to have Unity installed on your computer. You can download the latest version of Unity here.
+
+Once you have Unity installed, follow these steps to install the project:
+
+- Clone or download this repository to your local machine.
+- Open Unity and click "Open".
+- Navigate to the project folder and select the Unity-VR-Assignment folder.
+- Unity should load the project automatically. If not, click on the project in the Unity Hub to open it.
+
+That's it! You should now be able to run the project in Unity and build it for your desired platform. If you run into any issues or have any questions, please feel free to reach out.
