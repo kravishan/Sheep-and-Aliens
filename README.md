@@ -51,4 +51,4 @@ This project demonstrates how to create a VR environment in Unity and enable bas
 
 ## Credits
 
-This project was created by Kavindu Ravishan. The tutorial for creating a magnifying lens in VR was used as a reference. The assets used in the project were either provided in the tutorial or download from Unity Asset Store.
+This project was created by Kavindu Ravishan. The tutorial for creating a VR game was used as a reference. The assets used in the project were either provided in the tutorial or download from Unity Asset Store.
