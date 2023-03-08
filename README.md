@@ -12,17 +12,21 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Features
 
-Part 1: Magnifying Lens
+-This is a small game where the objective is to find the key and enter the cave. However, be mindful that the sheep will follow you throughout the game.
 
-The project is based on the tutorial for creating a magnifying lens, which has been adapted for VR. Instead of animation, the object is made grabbable and attached to the hand. A trigger collider is used to detect if the object is near a hand. The field of view (FOV) of the VR camera cannot be changed, so the "zoom" effect is achieved using render textures.
+-The game takes place at night, so you will need to light up your surroundings to see. But if you find the key, the light will automatically turn on.
 
-A rendering layer is used to make an object visible only through the magnifying lens. The project includes one such hidden object, which is marked clearly to indicate its location.
+-I attached two image about lamp and button in the start scene. Maybe It will be hard to find because darkness of the environment. 
 
-The image on the lens is relative to the viewing angle rather than the orientation of the lens itself. The camera does not rotate with the lens, and instead, the user can see straight through it.
+-Beware of the enemies; there are three in total, with one moving randomly. Additionally, there are four houses, two of which have food for the sheep while the other two have enemies. The sheep cannot go near the enemies as it will die, and if that happens, the whole scene will turn red.
 
-Part 2: Two-Handed Grabbing System
+-To enter the cave, you must have the key. Follow the hints given in the game to find the houses with food for the sheep. Although there is a script that kills the player if they drop into the water, it is not yet complete.
 
-The project includes a novel grabbing system where both hands can manipulate the object simultaneously. The position and rotation changes of the hands are tracked while the object is grabbed, and these combined changes are applied to the grabbed object. This allows multiple hands to manipulate the object simultaneously.
+-To grab the key and open doors in the game, use the trigger button.
+
+-Note that the game uses code to track VR controller movements, which may sometimes work perfectly and at other times, cause shaking. If this happens, you will need to restart the game.
+
+I have attached an image to show the location of the key. Please refer to it to save time in finding the key, rather than having to light up the environment to search for it.
 
 ## Installation
 
